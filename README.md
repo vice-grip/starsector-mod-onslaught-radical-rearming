@@ -14,7 +14,7 @@ Onslaught
 Onslaught (LC)
 Onslaught (LG)*
 Onslaught (XIV)
----
+___
 *Extraction only
 
 Weapon (source):
@@ -25,5 +25,5 @@ Neutron Autolances (Intrepid EX/Tritachyon markets)*
 Thermal Ablation Cannons (Loot/arms merchant)
 Thermal Pulse Cannons (Aggressor/XIV, Onslaught/XIV, Hegemony market)
 Thermal Pulse Lances (Lab Onslaught, Domain Phase Lab market)*
----
+___
 *Cross-mod content, many of these weapons can also be found as loot or bought even if Emergent Threats or Domain Phase Lab is not installed
