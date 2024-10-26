@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/vice-grip/starsector-mod-onslaught-radical-rearming/main/OnslaughtRR.version",
+    "modName":"Onslaught Radical Rearming",
+    "modThreadId":30876,
+    "modVersion":
+    {
+        "major":0,
+        "minor":1,
+        "patch":"0"
+    },
+}
