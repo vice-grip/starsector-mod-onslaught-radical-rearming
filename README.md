@@ -4,7 +4,7 @@ New Ships:
 Aggressor/Aggressor (XIV): a battlecruiser variant of the Onslaught that sacrifices armor for additional firepower.  
 Onslaught (LC): An ancient, highly modified variant of the Onslaught dating back to the First AI War, focused on armor defenses and fitted with a unique weapon by the Luddic Church.  
 
-Valid Ships for weapon swap:  
+Valid Ships:  
 Aggressor  
 Aggressor (XIV)  
 Incandescent\*: Emergent Threats  
