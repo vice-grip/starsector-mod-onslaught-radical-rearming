@@ -4,18 +4,18 @@ New Ships:
 Aggressor/Aggressor (XIV): a battlecruiser variant of the Onslaught that sacrifices armor for additional firepower.  
 Onslaught (LC): An ancient, highly modified variant of the Onslaught dating back to the First AI War, focused on armor defenses and fitted with a unique weapon by the Luddic Church.  
 
-Modifiable Ships:  
+Modifiable ships:  
 Aggressor  
 Aggressor (XIV)  
-Incandescent\*: Emergent Threats  
-Intrepid (EX)\*: Emergent Threats  
 Lab Onslaught: Domain Phase Lab  
 Onslaught  
 Onslaught (LC)  
-Onslaught (LG)\*  
 Onslaught (XIV)  
-\---  
-\*Extraction only  
+
+Modifiable ships (extract weapons only):  
+Incandescent: Emergent Threats  
+Intrepid (EX): Emergent Threats  
+Onslaught (LG): Emergent Threats  
 
 Weapons (source):  
 Anathema Autocannons (Onslaught LC/Luddic Church market)  
