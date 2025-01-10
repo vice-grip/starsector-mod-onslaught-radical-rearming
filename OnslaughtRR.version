@@ -6,6 +6,7 @@
     {
         "major":0,
         "minor":1,
-        "patch":"0"
+        "patch":"1"
     },
+	"changelogURL":"https://raw.githubusercontent.com/vice-grip/starsector-mod-onslaught-radical-rearming/main/changelog.txt",
 }
