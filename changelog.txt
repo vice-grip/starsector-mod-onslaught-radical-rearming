@@ -1,0 +1,4 @@
+Version 0.1.1
+Save compatible with 0.1+
+-Weapons can now be salvaged from all valid ships that have d-mods (Incandescent, Incursion, etc)
+-Added descriptive text to standard Thermal Pulse Cannons indicating they can be salvaged
